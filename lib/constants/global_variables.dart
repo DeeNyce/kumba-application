@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'http://192.168.43.255:3000';
+String uri = 'https://git.heroku.com/kumba-application.git';
 
 class GlobalVariables {
   // COLORS
